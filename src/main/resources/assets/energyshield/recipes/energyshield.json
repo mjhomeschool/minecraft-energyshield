@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LWR",
+    "WCW",
+    "RWL"
+  ],
+  "key": {
+    "C": {
+      "item": "ic2:energy_crystal"
+    },
+    "W": {
+      "item": "ic2:cable",
+      "data": 2
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "L": {
+      "item": "ic2:dust",
+      "data": 9
+    }
+  },
+  "result": {
+    "item": "energyshield:energyshield"
+  }
+}
